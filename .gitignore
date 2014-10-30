@@ -5,6 +5,7 @@
 
 # Maven
 log/
+logs/
 target/
 
 # others
