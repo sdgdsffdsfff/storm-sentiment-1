@@ -11,7 +11,7 @@
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.build.outputEncoding>UTF-8</project.build.outputEncoding>
-		<spring.version>3.2.3.RELEASE</spring.version>
+		<spring.version>5.2.20.RELEASE</spring.version>
 		<slf4j.version>1.7.5</slf4j.version>
 		<junit.version>4.11</junit.version>
 		<hamcrest.all.version>1.3</hamcrest.all.version>
